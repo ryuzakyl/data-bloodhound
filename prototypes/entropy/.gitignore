@@ -1,0 +1,5 @@
+# excluding every JetBrains project folder (including this project's)
+.idea
+
+# excluding .pyc files
+*.pyc

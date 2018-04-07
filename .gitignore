@@ -126,3 +126,6 @@ output
 
 # exclude the experiments folder
 experiments
+
+# exclude todo folder
+todo
