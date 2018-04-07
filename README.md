@@ -1,4 +1,4 @@
-# `data-bloodhound` - A toolbox for Dissimilarity Representations
+# `data-bloodhound` - A toolbox for Data Analysis
 
 > `data-bloodhound` is a toolbox for data analysis written in `Python` and `C++`. The goal of `data-bloodhound` is to facilitate the task of data analysis and further implementation Pattern Recognition and Big Data solutions.
 
