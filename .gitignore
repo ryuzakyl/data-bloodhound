@@ -99,3 +99,30 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# exclude every JetBrains project folder (including this project's)
+.idea
+
+# exclude the output folder
+output
+
+# exclude .pickle files
+*.pickle
+
+# exclude '_build' folder in the documentation folder
+docs/_build
+
+# exclude the output folder
+output
+
+# ignore the build folder of project that builds the *.so library for COW alignment
+cmake-build-debug
+
+# ignore *.log files
+*.log
+
+# exclude output folder
+output
+
+# exclude the experiments folder
+experiments
