@@ -60,15 +60,6 @@ preprocessing.snv module
     :undoc-members:
     :show-inheritance:
 
-preprocessing.utils module
---------------------------
-
-.. automodule:: preprocessing.utils
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
 Module contents
 ---------------
 

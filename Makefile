@@ -1,10 +1,10 @@
 #
-# Copyright (C) CENATAV, DATYS - All Rights Reserved
+# Copyright (C) Victor M. Mendiola Lau - All Rights Reserved
 # Unauthorized copying of this file, via any medium is strictly prohibited
 # Proprietary and confidential
-# Written by Victor M. Mendiola Lau <vmendiola@cenatav.co.cu>, January 2017
+# Written by Victor M. Mendiola Lau <ryuzakyl@gmail.com>, January 2017
 #
-# Makefile for DR Toolbox
+# Makefile for Data Bloodhound
 #
 
 # ---------------- installing requirements ----------------

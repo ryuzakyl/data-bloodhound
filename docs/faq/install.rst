@@ -72,8 +72,8 @@ configuration is finished, it is mandatory to restart/close the CMD:
         > setx HTTPS_PROXY http://domain\username:mypassword@proxy.com:port /M
 
         # For example:
-        > setx HTTP_PROXY http://datys\vmendiola:mypassword@proxy.cenatav.co.cu:3128 /M
-        > setx HTTPS_PROXY http://datys\vmendiola:mypassword@proxy.cenatav.co.cu:3128 /M
+        > setx HTTP_PROXY http://mydomain\myusername:mypassword@proxy.com:1234 /M
+        > setx HTTPS_PROXY http://mydomain\myusername:mypassword@proxy.com:1234 /M
 
 Another approach is via the User Interface:
 
@@ -158,7 +158,7 @@ Add the following environment variable at the end of your ``~/.bashrc`` file::
         $ export all_proxy="http://domain\username:mypassword@proxy.com:port"
 
         # For example:
-        $ export all_proxy="http://datys\vmendiola:mypassword@proxy.cenatav.co.cu:3128"
+        $ export all_proxy="http://mydomain\myusername:mypassword@proxy.com:1234"
 
 With a system wide proxy configuration, we can make use of the ``pip``
 package manager. On a System Terminal run the following commands::

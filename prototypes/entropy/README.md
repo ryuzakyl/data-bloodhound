@@ -21,4 +21,4 @@
 
 ## Developers
 
-* Victor M. Mendiola Lau – [Mail](mailto:vmendiola@cenatav.co.cu) - [GitLab Profile](http://gitlab.cenatav.co.cu/u/vmendiola)
+* Victor M. Mendiola Lau – [Mail](mailto:ryuzakyl@gmail.com) - [GitHub Profile](https://github.com/ryuzakyl)
